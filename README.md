@@ -1,3 +1,4 @@
+[![Entrar no Telegram](https://img.shields.io/badge/Telegram-Entrar%20no%20grupo-blue?logo=telegram&style=flat)](https://t.me/blhuborg)
 # Free Fire Apis
 
 Documentação dos endpoints HTTP públicos, com exemplos reais de requisição e resposta em **JSON**.
